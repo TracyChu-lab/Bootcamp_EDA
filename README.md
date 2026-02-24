@@ -5,4 +5,4 @@ Our primary approach to the EDA of the loan datasets was graphing many different
 
 We also merged the two datasets by ID, allowing us to compare current loan data against historical loan performance and application history, which too proved to be important in determining the creditworthiness of the individuals in the current dataset. 
 
-# Ben Maris and Tracy worked on this
+# Ben, Mais, and Tracy worked on this
